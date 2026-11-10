@@ -1,0 +1,20 @@
+﻿# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Environment
+.env
+
+# Node
+node_modules/
+dist/
+
+# VSCode
+.vscode/
